@@ -6,6 +6,8 @@
 # Vinicius Cristal de Oliveira — RM-572048
 # Link do vídeo pitch no YouTube:
 # https://www.youtube.com/watch?v=BzuYokZEfyU
+# Link do repostório do Github:
+#https://github.com/KaiqueKai/mission-control-ai-nebula-watch
 
 # ============================================================
 # MISSION CONTROL AI
