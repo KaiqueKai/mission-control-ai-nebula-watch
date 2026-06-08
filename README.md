@@ -4,7 +4,7 @@
 
 * Kaique Da Silva Assis — RM572718
 * Andre Debiazzi — RM569062
-* Vinicius Cristal de Oliveira — RM572048
+* Vinicius Cristal de Oliveira — RM572049
 
 ---
 
